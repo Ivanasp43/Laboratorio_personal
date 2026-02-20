@@ -101,6 +101,19 @@ Aquí documento configuraciones reales, despliegues completos y simulaciones de 
 
 ---
 
+## 🌍 6️⃣ Web & Entornos de Desarrollo
+
+📁 `06-Web`
+
+- Docker aplicado a entornos web
+- Despliegue de WordPress en contenedores
+- Python (scripts y fundamentos backend)
+- Hugo (generación de sitios estáticos)
+- Configuración de entornos de desarrollo
+- Integración con bases de datos
+
+---
+
 ## 🔐 5️⃣ Seguridad
 
 📁 `05-Seguridad`
